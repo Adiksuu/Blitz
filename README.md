@@ -6,3 +6,5 @@
 
 ### ◇ HOW TO CHECK COMMANDS LIST?
 » Use the **/help** command from **blitz bot** to display a **commands list**
+
+![image](https://github.com/Adiksuu/Blitz/assets/75419729/df34626d-9681-4e94-8372-c6d188eab862)
